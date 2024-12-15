@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="3_monitoring_troubleshooting">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-mentoring-program-master/3_monitoring_troubleshooting/simple-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-mentoring-program-master/3_monitoring_troubleshooting/deadlock-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-mentoring-program-master/3_monitoring_troubleshooting/heap-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
